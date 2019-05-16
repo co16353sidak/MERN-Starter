@@ -1,4 +1,7 @@
 # MERN-Starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/co16353sidak/MERN-Starter.svg)](https://greenkeeper.io/)
+
 A Basic MERN Starter App Created as a boilerplate for future projects
 
 
